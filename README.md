@@ -5,6 +5,7 @@ This repository store a useful tool : env_tool.py. Why this tool exists ? Becaus
 - [x] Don't need an Archive Manager on your computer
 - [x] Backup a python venv (in .zip)
 - [x] Extract a backuped venv (from .zip)
+- [ ] Can be launched with another python version (and found the venv version)
 - [ ] Use other compress algorithms and extensions
 - [ ] Can use mdp to protect the venv
 
